@@ -1,0 +1,4 @@
+# Files ignore
+.mssql/
+.zookeeper_data/
+data/
